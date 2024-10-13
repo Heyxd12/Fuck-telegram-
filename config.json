@@ -3,7 +3,7 @@
   "fb_ID":"https://www.facebook.com/profile.php?id=100089286199594",
   "adminName": "MAHI AHMED ",
   "botName": "GOJO V2",
-  "token": "7049223637:AAEjvmrmSc8g54vfiKxUFP1OQOdpSkFVjto",
+  "token": "7329629312:AAEGnZbdVqdrtT3gbP1sbc_SWMA58T6mSII",
 "mongodbURI":"mongodb+srv://userg4185:zWfR3c1ez5zpAUj0@cluster0.mfbe2.mongodb.net/botbee?retryWrites=true&w=majority&appName=Cluster0",
   "notes":"ADD_YOUR_MONGO_DB_URI for fast response. and if you don't know how to collect mongo uri then see this For database. MongooDB uri => https://drive.google.com/file/d/10AxcIiFQuI9S2gMBwV_i4U8UogMJX8pD/view?usp=drivesdk",
   "prefix": ".",
